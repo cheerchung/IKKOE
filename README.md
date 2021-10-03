@@ -1,2 +1,2 @@
 # IKKOE
-Technical test : algo detection de cycle
+Technical test: algo detection de cycle
